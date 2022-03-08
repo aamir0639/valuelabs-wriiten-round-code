@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "in.gov.uidai.mAadhaarPlus",
-    "sha256_cert_fingerprints":
-    ["CD:B6:96:C6:4B:24:F5:81:A0:94:12:1E:85:C4:D7:5D:B6:44:A1:FB:D5:1E:BF:37:FA:F2:1C:D5:DF:D5:9A:8F"]
-  }
-}]
